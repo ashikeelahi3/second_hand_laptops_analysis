@@ -1,0 +1,20 @@
+- model
+- Battery health
+- processor name
+- processor generation
+- processor wattage
+- ram speed
+- ram size
+- ram generation
+- gpu
+- gpu vram
+- hdd size
+- hdd type
+- ssd size
+- ssd type
+- display resolution
+- 2in1 or clampshell
+- defect
+- time used
+
+- first activation date
